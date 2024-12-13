@@ -1,0 +1,5 @@
+a= int(input("age="))
+# print(a)
+b=input("name=")
+# print(b)
+print("My name is",b,"and i am",a,"yrs old")
