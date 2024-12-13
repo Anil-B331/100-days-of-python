@@ -18,3 +18,4 @@ print(eat)
 
 food=input("Food=") # syntax: statement_1 if< condition> else statement_2
 print("Sweet") if food=="cake" or food=="halwa" else print("spicy")
+print("hello world")
