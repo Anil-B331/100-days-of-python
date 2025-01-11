@@ -1,0 +1,7 @@
+f= open("IO.txt", "r")
+# data=f.read(11)
+# data=f.read()
+data=f.readline()
+data2=f.readline()
+print(data)
+print(data2)
